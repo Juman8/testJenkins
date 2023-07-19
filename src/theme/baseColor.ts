@@ -136,4 +136,5 @@ export const APP_COLORS = {
   gray700: '#5E6278',
   gray800: '#3F4254',
   gray900: '#181C32',
+  gray750: '#181C32',
 };
